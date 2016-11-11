@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameBoard()
+comment1.params=
+comment1.target=void\ resetBoard()
+comment2.params=x\ y\ type
+comment2.target=void\ setTile(int,\ int,\ GameBoard.TileType)
+comment3.params=x\ y
+comment3.target=GameBoard.TileType\ getTile(int,\ int)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

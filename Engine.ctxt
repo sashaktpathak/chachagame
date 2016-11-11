@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=canvas
+comment0.target=Engine(java.awt.Canvas)
+comment1.params=
+comment1.target=void\ startGame()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics2D)
+comment4.params=
+comment4.target=void\ resetGame()
+comment5.params=
+comment5.target=void\ spawnFruit()
+comment6.params=e
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

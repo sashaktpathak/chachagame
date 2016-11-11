@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=Snake(GameBoard)
+comment1.params=
+comment1.target=void\ resetSnake()
+comment2.params=direction
+comment2.target=void\ setDirection(Snake.Direction)
+comment3.params=
+comment3.target=GameBoard.TileType\ updateSnake()
+comment4.params=
+comment4.target=int\ getSnakeLength()
+comment5.params=
+comment5.target=Snake.Direction\ getCurrentDirection()
+numComments=6
